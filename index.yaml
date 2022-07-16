@@ -3,12 +3,12 @@ entries:
   jumbo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-16T16:25:08.716450734Z"
-    description: A Helm chart for Kubernetess
-    digest: 98d67878df94336290f3a8fb1beda89b85f0b33dbf0ba508dd350b6aea9be8a0
+    created: "2022-07-16T16:48:44.765042149Z"
+    description: A Helm chart for Kubernetes
+    digest: fda5fb3002a6f977125098f76dba0bea50bbbd17a87256c4558d6118336a5840
     name: jumbo
     type: application
     urls:
     - https://pavankumarsatyala.github.io/gitlabpages/jumbo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-16T16:25:08.715125236Z"
+generated: "2022-07-16T16:48:44.763777824Z"
